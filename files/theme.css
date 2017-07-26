@@ -409,7 +409,7 @@ section.height-auto .pos-vertical-center {
 }
 /**! 05. Images **/
 img {
-  max-width: 510%;
+  max-width: 51%;
   margin-bottom: 1.85714286em;
 }
 /*p+img, img:last-child{
