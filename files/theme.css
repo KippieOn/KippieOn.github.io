@@ -8742,3 +8742,7 @@ footer.footer-7 {
     margin-right: auto;
   }
 }
+
+.link-disabled {
+  pointer-events: none;
+}
