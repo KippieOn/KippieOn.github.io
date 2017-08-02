@@ -1,3 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Overlock|Source+Sans+Pro|Raleway');
+
+
 .fine-line {
   border-right: 0.1em solid #696969;
+}
+
+
+.title-style {
+  font-family: "Source Sans Pro";
+}
+
+
+.subtitle-style {
+  font-size: "Overlock", sans-serif;
+  font-family: 2.4em;
+  font-style: italic;
+  font-weight: 600;
+}
+
+
+.main-style {
+  font-size: "Raleway", sans-serif;
+  font-family: 1em;
+}
+
+.oblique {
+  font-style: oblique;
+}
+
+
+ul li {
+  text-align: left;
+  font-weight: 600;
+  color: #5c5c5c;
+  font-size: 1.2em;
+  font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+  padding-top: 2%;
+}
+
+.last {
+  padding-bottom: 6%;
 }
