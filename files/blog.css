@@ -44,3 +44,24 @@ h4 {
 .last {
   padding-bottom: 6%;
 }
+
+
+.margin {
+  margin-bottom: 4%;
+}
+
+.pad {
+  padding-bottom: 3%;
+}
+
+.right {
+  text-align: right;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.margin-lft {
+  margin-left: 10% !important;
+}
